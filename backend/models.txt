@@ -1,8 +1,0 @@
-notification
-  id
-  message
-
-
-stock
-  id
-  name
